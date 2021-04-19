@@ -6,6 +6,20 @@ The water filling algorithm of Python environment.
 
 Numpy([https://numpy.org/](https://numpy.org/))
 
+## Installation
+
+Input the following command in your `python/file/path`
+
+```shell
+git clone https://github.com/kaeruchan/waterfilling.git
+```
+
+## How to use it
+
+```python
+from waterfilling.waterfilling import GWF
+```
+
 ## Reference
 
 This program is build depend on geometric water-filling algorithm 
