@@ -15,7 +15,7 @@ by _Zhao_ in Ryerson University [1].
 resource allocation problems,” IEEE Trans. Wireless Commun., vol. 12, no. 7, pp. 3637–3647, Jul. 2013.
 
 ```bibtex
-@article{footbar1,
+@article{he_2013_waterfilling,
     author = {He, Peter
           and Zhao, Lian
           and Zhou, Sheng
