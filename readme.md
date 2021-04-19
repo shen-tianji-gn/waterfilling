@@ -10,7 +10,7 @@ Numpy([https://numpy.org/](https://numpy.org/))
 
 Input the following command in your `python/file/path`
 
-```shell
+```sh
 git clone https://github.com/kaeruchan/waterfilling.git
 ```
 
