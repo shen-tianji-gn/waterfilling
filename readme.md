@@ -9,4 +9,6 @@ Numpy([https://numpy.org/](https://numpy.org/))
 ## Reference
 
 This program is build depend on geometric water-filling algorithm 
-by _Zhao_ in Ryerson University [@footbar2], [@footbar1].
+by _Zhao_ in Ryerson University 
+…… [@footbar2], 
+…… [@footbar1].
