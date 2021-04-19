@@ -20,6 +20,8 @@ git clone https://github.com/kaeruchan/waterfilling.git
 from waterfilling.waterfilling import GWF
 ```
 
+Please refer the `waterfilling_call.py` for details.
+
 ## Reference
 
 This program is build depend on geometric water-filling algorithm 
