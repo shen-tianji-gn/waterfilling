@@ -11,7 +11,7 @@ Numpy([https://numpy.org/](https://numpy.org/))
 Input the following command in your `python/file/path`
 
 ```bash
-git clone https://github.com/kaeruchan/waterfilling.git
+git clone https://github.com/shen-tianji-gn/waterfilling.git
 ```
 
 ## How to use it
