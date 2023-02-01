@@ -5,6 +5,7 @@ The water filling algorithm of Python environment.
 ## Dependences
 
 Numpy([https://numpy.org/](https://numpy.org/))
+Matplotlib ([https://matplotlib.org/](https://matplotlib.org/))
 
 ## Installation
 
